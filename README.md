@@ -7,6 +7,7 @@ The client has given us a database of ufo data and we have managed to make a web
 
 ## Results
 ![filters used for the database](picture/filter.PNG)
+
 All the data from the database is displayed on the table when the webpage is loaded. When a person loads up the page, they can choose to search by one of the search terms to filter the database for a specific slice of the table or they can use multiple filters to search for a specific event.
 
 ## Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.
